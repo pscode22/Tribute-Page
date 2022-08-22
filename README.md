@@ -1,2 +1,2 @@
 # Tribute-Page
-Made with :- Html,Css
+Made with :-HTML, CSS
